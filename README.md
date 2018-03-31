@@ -9,6 +9,7 @@ Applications
 ------------
 
   * **TestApp** is a very basic Mac application that displays a movable, resizable window.
+  * **NyanCat** is a black and white adaptation of Christopher Torres' Nyan Cat animation.
 
 Modules
 -------
