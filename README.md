@@ -5,6 +5,11 @@ AMS is the [Advanced Mac Substitute][AMS], a trap-level emulator for Mac OS.
 
 This repository contains various 68K executables needed to run Mac apps using AMS.
 
+Applications
+------------
+
+  * **TestApp** is a very basic Mac application that displays a movable, resizable window.
+
 Modules
 -------
 
