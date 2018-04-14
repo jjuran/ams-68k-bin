@@ -16,6 +16,7 @@ Modules
 
   * `ams-core` consists of anything not covered below.
   * `ams-rsrc` implements the Resource Manager.
+  * `ams-pack` contains the Package Manager (but no actual packages).
   * `ams-qd` provides QuickDraw and the Font Manager.
   * `ams-ui` includes the Window Manager, Control Manager, and Menu Manager.
   
