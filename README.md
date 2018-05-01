@@ -10,6 +10,7 @@ Applications
 
   * **TestApp** is a very basic Mac application that displays a movable, resizable window.
   * **NyanCat** is a black and white adaptation of Christopher Torres' Nyan Cat animation.
+  * **IAGO** is a Reversi game released to the public domain by David Reed in 1984.
 
 Modules
 -------
