@@ -16,6 +16,7 @@ Modules
 -------
 
   * `ams-core` consists of anything not covered below.
+  * `ams-fs` implements the File Manager.
   * `ams-rsrc` implements the Resource Manager.
   * `ams-pack` contains the Package Manager (but no actual packages).
   * `ams-seg` contains the Segment Loader.
