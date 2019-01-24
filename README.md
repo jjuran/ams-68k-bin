@@ -8,7 +8,8 @@ This repository contains various 68K executables needed to run Mac apps using AM
 Applications
 ------------
 
-  * **TestApp** is a very basic Mac application that displays a movable, resizable window.
+  * **Welcome** is a parody of the "Welcome to Macintosh" loading screen.
+  * **Tic-tac-toe** is a very basic Tic-tac-toe game.
   * **NyanCat** is a black and white adaptation of Christopher Torres' Nyan Cat animation.
   * **IAGO** is a Reversi game released to the public domain by David Reed in 1984.
 
