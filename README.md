@@ -17,6 +17,7 @@ Modules
 -------
 
   * `ams-core` consists of anything not covered below.
+  * `ams-io` implements the Device Manager and the Console Port drivers.
   * `ams-fs` implements the File Manager.
   * `ams-rsrc` implements the Resource Manager.
   * `ams-pack` contains the Package Manager (but no actual packages).
