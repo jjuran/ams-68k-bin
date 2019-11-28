@@ -1,3 +1,4 @@
 name: "System's Twilight"
 docfs: true
 sound: true
+gne-ticks: 0
