@@ -1,0 +1,2 @@
+name: "Lemmings"
+files: [ "Levels", "BW Graphics", "Music" ]
