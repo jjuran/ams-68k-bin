@@ -1,0 +1,2 @@
+name: "Risk"
+romgen: 1
