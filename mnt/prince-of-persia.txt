@@ -1,0 +1,5 @@
+name: "Prince of Persia"
+files: [ "Persia(BW)" ]
+sound: true
+romgen: 1
+system: 5
