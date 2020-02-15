@@ -1,0 +1,3 @@
+name: "Wesleyan Tetris"
+romgen: 1
+sound: true
