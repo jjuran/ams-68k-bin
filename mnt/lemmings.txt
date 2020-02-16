@@ -1,2 +1,5 @@
 name: "Lemmings"
 files: [ "Levels", "BW Graphics", "Music" ]
+sound: true
+romgen: 1
+system: 6
