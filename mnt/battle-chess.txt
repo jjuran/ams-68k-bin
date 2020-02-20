@@ -1,0 +1,4 @@
+name: "Battle Chess"
+files: [ "ALLCANM1", "ALLCANM2" ]
+sound: true
+romgen: 1
