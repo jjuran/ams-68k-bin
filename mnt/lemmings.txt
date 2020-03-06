@@ -1,5 +1,5 @@
 name: "Lemmings"
-files: [ "Levels", "BW Graphics", "Music" ]
+disk: "Lemmings.mbim"
 sound: true
 romgen: 1
 system: 6
