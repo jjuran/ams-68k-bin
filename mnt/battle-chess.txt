@@ -1,4 +1,4 @@
 name: "Battle Chess"
-files: [ "ALLCANM1", "ALLCANM2" ]
+disk: "BattleChess.mbim"
 sound: true
 romgen: 1

@@ -1,5 +1,5 @@
 name: "Prince of Persia"
-files: [ "Persia(BW)" ]
+disk: "Prince of Persia.mbim"
 sound: true
 romgen: 1
 system: 5
