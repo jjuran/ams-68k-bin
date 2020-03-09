@@ -1,4 +1,5 @@
 name: "Lode Runner"
 disk: "Lode_Runner.dsk"
+gne-ticks: 0
 appfs: true
 sound: true
