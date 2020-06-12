@@ -1,0 +1,3 @@
+name: "MacPaint"
+disk: "MacPaint_1_5.dsk"
+docfs: true
