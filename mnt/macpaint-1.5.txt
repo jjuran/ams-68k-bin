@@ -1,3 +1,4 @@
 name: "MacPaint"
 disk: "MacPaint_1_5.dsk"
 docfs: true
+document-types: [ PNTG: "com.apple.macpaint-image" ]
