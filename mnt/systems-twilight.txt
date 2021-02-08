@@ -2,3 +2,4 @@ name: "System's Twilight"
 docfs: true
 sound: true
 gne-ticks: 0
+document-types: [ TwZs: "org.v68k.STwZ.TwZs" ]
