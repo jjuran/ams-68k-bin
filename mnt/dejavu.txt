@@ -2,4 +2,5 @@ name: "Deja Vu"
 disk: "DejaVu.mbim"
 docfs: true
 sound: true
-document-types: [ MCv1: "org.v68k.MCV1.MCv1" ]
+document-icons: [ MCV1: 'MCv1' ]
+document-types: [ MCV1: "org.v68k.MCV1.MCV1" ]
