@@ -1,0 +1,5 @@
+name: "Dungeon of Doom"
+appfs: true
+docfs: true
+sound: true
+document-types: [ STUF: "org.v68k.DOOM.STUF" ]
