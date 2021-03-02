@@ -2,4 +2,6 @@ name: "Lode Runner"
 disk: "Lode_Runner.dsk"
 gne-ticks: 0
 appfs: true
+docfs: true
 sound: true
+document-types: [ LODE: "org.v68k.GLEN.LODE" ]
