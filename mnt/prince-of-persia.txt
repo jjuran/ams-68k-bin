@@ -1,5 +1,7 @@
 name: "Prince of Persia"
 disk: "Prince of Persia.mbim"
+docfs: true
 sound: true
 romgen: 1
 system: 5
+document-types: [ PPsg: "org.v68k.PoƒP.PPsg" ]
