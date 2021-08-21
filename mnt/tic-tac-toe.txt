@@ -1,2 +1,4 @@
 name: "Tic-tac-toe"
 sound: true
+docfs: true
+document-types: [ 'XvO#': "org.v68k.XvO#.XvO#" ]
