@@ -1,5 +1,6 @@
 name: "Lode Runner"
 disk: "Lode_Runner.dsk"
+auto-vsync: true
 gne-ticks: 0
 appfs: true
 docfs: true
