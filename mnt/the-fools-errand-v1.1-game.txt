@@ -1,0 +1,5 @@
+name: "The Fool's Errand™"
+disks: ["Fool's Errand v1.1 Game.dsk", "Fool's Errand v1.1 Puzzles.dsk"]
+docfs: true
+sound: true
+document-types: [ FOOL: "org.v68k.gF87.FOOL" ]

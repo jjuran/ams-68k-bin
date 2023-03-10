@@ -1,0 +1,4 @@
+name: "Prologue-Finale"
+disk: "Fool's Errand v1.1 Show.dsk"
+document-types: [ 'SHOW': "org.v68k.sF87.SHOW" ]
+docfs: "The Fool's Errand™"
