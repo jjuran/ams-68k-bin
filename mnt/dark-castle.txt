@@ -1,0 +1,5 @@
+name: "Dark Castle"
+disk: "DarkCastle.mbim"
+xv: "fake"
+mem: 1
+sound: true
