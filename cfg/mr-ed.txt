@@ -1,3 +1,2 @@
 name: "Mr. Ed"
-disk: "MrEd.mbin"
 sound: true

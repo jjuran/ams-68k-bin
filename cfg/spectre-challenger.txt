@@ -1,5 +1,4 @@
 name: "Spectre Challenger"
-disk: "Spectre Challenger.mbin"
 romgen: 1
 system: "6.0.3"
 sound: true

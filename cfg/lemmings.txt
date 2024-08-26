@@ -1,5 +1,4 @@
 name: "Lemmings"
-disk: "Lemmings.mbim"
 sound: true
 cpu: 68020
 romgen: 1

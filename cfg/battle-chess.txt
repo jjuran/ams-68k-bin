@@ -1,4 +1,3 @@
 name: "Battle Chess"
-disk: "BattleChess.mbim"
 sound: true
 romgen: 1

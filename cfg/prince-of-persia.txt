@@ -1,5 +1,4 @@
 name: "Prince of Persia"
-disk: "Prince of Persia.mbim"
 docfs: true
 sound: true
 romgen: 1

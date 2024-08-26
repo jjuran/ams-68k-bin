@@ -1,5 +1,4 @@
 name: "Deja Vu"
-disk: "DejaVu.mbim"
 docfs: true
 sound: true
 document-icons: [ MCV1: 'MCv1' ]
