@@ -10,6 +10,8 @@ Applications
 
   * **Welcome** is a parody of the "Welcome to Macintosh" loading screen.
   * **Tic-tac-toe** is a Tic-tac-toe board with multiple Undo and saved games.
+  * **Black Knight's Chess** is a playable chess board (including castling, pawn promotion, and *en passant* capture).
+  * **Organ Console** is a demonstration of the Sound Driver's four-tone synthesizer.
   * **Nyanochrome Cat** is a black and white adaptation of Christopher Torres' Nyan Cat animation.
   * **IAGO** is a Reversi game released to the public domain by David Reed in 1984.
 
@@ -48,11 +50,19 @@ Modules
     * International Utilities Package
     * Binary/Decimal Conversion Package
     * String Utilities
+  * `ams-snd` is the Sound Manager.
+  * `ams-dsat` is the System Error Handler.
+  * `ams-print` is the Printing Manager (though only a stub).
+  * `umsp` is the User-Mode Service Package, which emulates privileged instructions that access the Status Register.
+  * `vdb` is a debugger.
 
 Command-line programs
 ---------------------
 
   * `app` launches a Mac application.
+  * `'BNDL'`-unpacking tools:
+    * `get-bndl-pwner` extracts the application signature code.
+    * `get-bndl-icon` retrieves the `'ICN#'` data for a specific file type.
   * `hello` is not needed by AMS, nor vice versa.  It's just a hand-coded 68K Hello World program, useful for testing that `xv68k` works.
 
 [AMS]:  <https://www.v68k.org/advanced-mac-substitute/>
