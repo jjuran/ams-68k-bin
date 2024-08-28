@@ -16,7 +16,15 @@ Applications
 Modules
 -------
 
-  * `ams-core` consists of anything not covered below.
+  * `ams-core` provides most of the OS:
+    * low-level cursor support
+    * interrupt handlers
+    * Vertical Retrace Manager
+    * OS Utilities
+    * Memory Manager
+    * Gestalt Manager
+    * OS Event Manager
+    * Toolbox Event Manager
   * `ams-io` implements the Device Manager and the Console Port drivers.
   * `ams-fs` implements the File Manager.
   * `ams-rsrc` implements the Resource Manager.
@@ -24,7 +32,7 @@ Modules
   * `ams-seg` contains the Segment Loader.
   * `ams-qd` provides QuickDraw and the Font Manager.
   * `ams-ui` includes the Window Manager, Control Manager, and Menu Manager.
-  
+
 Command-line programs
 ---------------------
 
