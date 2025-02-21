@@ -1,2 +1,4 @@
 name: "Organ Console"
 sound: true
+docfs: true
+document-types: [ 'V8R8': "org.v68k.|gan.V8R8" ]
