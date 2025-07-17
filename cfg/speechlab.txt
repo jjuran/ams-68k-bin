@@ -1,0 +1,4 @@
+name: "SpeechLab"
+files: ["MacinTalk"]
+sound: true
+auto-clear: true
