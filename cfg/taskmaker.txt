@@ -1,6 +1,7 @@
 name: "TaskMaker v2.2.4"
 docfs: true
 sound: true
+max-channels: 1
 document-types: [ MEAT: "org.v68k.TASK.MEAT" ]
 system: "6.0.2"
 romgen: 1
