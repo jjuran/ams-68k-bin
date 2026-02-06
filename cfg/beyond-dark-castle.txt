@@ -1,0 +1,5 @@
+name: "Beyond Dark Castle"
+xv: "fake"
+mem: 1
+sound: true
+romgen: 2
