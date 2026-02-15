@@ -4,3 +4,4 @@ mem: 1
 sound: true
 prefs: true
 romgen: 2
+document-types: [ dc2d: "Beyond Dark Castle data" ]

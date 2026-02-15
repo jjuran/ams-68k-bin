@@ -3,3 +3,4 @@ xv: "fake"
 mem: 1
 sound: true
 prefs: true
+document-types: [ DCFL: "Dark Castle data" ]
