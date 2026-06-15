@@ -3,4 +3,6 @@ xv: "fake"
 mem: 1
 sound: true
 prefs: true
+hide-startup: true
+hide-desktop: true
 document-types: [ DCFL: "Dark Castle data" ]

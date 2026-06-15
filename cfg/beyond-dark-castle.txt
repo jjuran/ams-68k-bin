@@ -4,4 +4,6 @@ mem: 1
 sound: true
 prefs: true
 romgen: 2
+hide-startup: true
+hide-desktop: true
 document-types: [ dc2d: "Beyond Dark Castle data" ]
